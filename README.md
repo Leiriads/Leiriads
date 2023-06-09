@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
   ### 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,django,mysql,postgresql,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,mysql,postgres,github)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,postman,netlify)](https://skillicons.dev)
+
 
 <div>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leiriads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
