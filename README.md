@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,docker,mysql,postgres,sqlite,sequelize)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,github,postman,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,git,github,postman,netlify,heroku)](https://skillicons.dev)
 
 
 <div>
