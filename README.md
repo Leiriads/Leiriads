@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   ### 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,docker,mysql,postgres)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity)](https://skillicons.dev)
 
