@@ -20,12 +20,8 @@ Here are some ideas to get you started:
 
 
   ### 👨‍💻 Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dudu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Dudu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dudu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,php,django)](https://skillicons.dev)
 
 <div>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leiriads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
