@@ -21,11 +21,17 @@ Here are some ideas to get you started:
 
   ### 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs,linux,docker,mysql,postgres,sqlite,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,sequelize)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,git,github,postman,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github,postman,netlify,heroku)](https://skillicons.dev)
+
+<br>
 
 
 <div>
@@ -34,14 +40,7 @@ Here are some ideas to get you started:
   
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=leiriads&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   
-
-  
-</div>
+![gato-digitando](https://github.com/Leiriads/Leiriads/assets/89768557/7dcd542d-7131-44d5-8a68-a8b7243e5f4c)
 
 
 
-
-
-<p align="left">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
-</p>
