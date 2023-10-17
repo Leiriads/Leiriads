@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express,selenium)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github,postman,netlify,heroku)](https://skillicons.dev)
 
