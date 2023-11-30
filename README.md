@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+👋😄+Hi+there)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+👋😄+Hi+there;Back-End+and+Full-Stack+👋😄)](https://git.io/typing-svg)
 <!--
 **Leiriads/Leiriads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📚+I+like+to+Study;👨‍💻+I+like+to+Code;😺+I+like+cats+and+tea.🍵😄)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱+I’m+currently+learning+Api's;NodeJs+Python+Java+C-sharp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📚+I’m+currently+learning+Api's;⚡+and+bots/automations;NodeJs+Python+Java+C-sharp)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨‍💻+I+am+currently+developing+web;⚡+applications+for+Vivo;👨‍💻+along+with+bots+and+automations.)](https://git.io/typing-svg)
+
+
 
 
   ### 👨‍💻 Skills
