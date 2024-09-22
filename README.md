@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📚+I+like+to+Study;👨‍💻+I+like+to+Code;😺+I+like+cats+and+tea.🍵😄)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📚+I’m+currently+learning+Api's;⚡+and+bots/automations;NodeJs+Python+Java+C-sharp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📚+I’m+currently+learning+Api's;⚡+and+bots/automations;Python+NodeJs+Java+C-sharp)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨‍💻+I+am+currently+developing+web;⚡+applications+for+Vivo;👨‍💻+along+with+bots+and+automations.)](https://git.io/typing-svg)
 
