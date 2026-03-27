@@ -20,18 +20,19 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨‍💻+I+am+currently+developing+web;⚡+applications+for+Vivo;👨‍💻+along+with+bots+and+automations.)](https://git.io/typing-svg)
 
+![gato-fofo](https://github.com/user-attachments/assets/94455b49-b86f-4dfe-9926-7d9922b51342)
 
 
 
   ### 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,java,php,cs,md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,sequelize)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,redis,docker,git,gitlab,bash,windows,powershell,nginx)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,bootstrap,unity,qt,express,selenium,angular,spring,svelte)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github,postman,netlify,heroku)](https://skillicons.dev)
 
